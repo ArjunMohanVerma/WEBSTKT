@@ -1,0 +1,34 @@
+.primary-heading{
+    color:'blue';
+    font-size:'40px';
+}
+
+.primary-heading:hover{
+    background-color: 'blue';
+    color: 'white';
+    cursor: 'pointer';
+    
+}
+.home-container{
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.primary-heading{
+  background-color: rgba(128, 0, 128, 0.5);
+  color: white;
+  padding-top: 3.5px;
+  
+
+}
+.primary-text{
+  background-color: rgba(126, 113, 126,0.6);
+  color: black;
+  padding-top: 1vw;
+  border-radius: 5px;
+  font-size: 30px;
+
+  
+}
