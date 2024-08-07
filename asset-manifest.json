@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WEBSTKT/static/css/main.2d5d8719.css",
+    "main.js": "/WEBSTKT/static/js/main.8d17eef8.js",
+    "static/media/video.mp4": "/WEBSTKT/static/media/video.910feca3b8786ad72b30.mp4",
+    "static/media/vyleeqr.png": "/WEBSTKT/static/media/vyleeqr.47b478a0b26de0f9abb4.png",
+    "static/media/img2.jpg": "/WEBSTKT/static/media/img2.283482175ce9589a8c3b.jpg",
+    "static/media/instagram.png": "/WEBSTKT/static/media/instagram.28944b9a16197e849f88.png",
+    "static/media/background1.jpg": "/WEBSTKT/static/media/background1.bd9741a5cf68a1cb21cc.jpg",
+    "static/media/youtube.png": "/WEBSTKT/static/media/youtube.a18905bdec536c578e09.png",
+    "static/media/facebook.png": "/WEBSTKT/static/media/facebook.795fce8e464693d7346d.png",
+    "static/media/revicons.eot": "/WEBSTKT/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/WEBSTKT/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/WEBSTKT/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/slick.svg": "/WEBSTKT/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/WEBSTKT/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/WEBSTKT/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/WEBSTKT/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/WEBSTKT/index.html",
+    "main.2d5d8719.css.map": "/WEBSTKT/static/css/main.2d5d8719.css.map",
+    "main.8d17eef8.js.map": "/WEBSTKT/static/js/main.8d17eef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5d8719.css",
+    "static/js/main.8d17eef8.js"
+  ]
+}
